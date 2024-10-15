@@ -119,3 +119,4 @@ __vsc_prompt_cmd_original
 __vsc_prompt_cmd_original
 Enter psql --username=freecodecamp --dbname=mario_database into the terminal to log in if you aren't Enter psql --username=freecodecamp --dbname=mario_database into the terminal to log in if you aren't already
 psql --username=freecodecamp --dbname=mario_database
+psql --username=freecodecamp --dbname=mario_database
